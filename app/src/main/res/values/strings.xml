@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HeaderFooter</string>
+    <string name="footer_title">Footer</string>
+    <string name="heaser_title">Header</string>
+    <string name="button_text">Test</string>
+    <string-array name="data">
+        <item name="one">One</item>
+        <item name="two">Two</item>
+        <item name="three">Three</item>
+        <item name="four">Four</item>
+        <item name="five">Five</item>
+    </string-array>
+</resources>
